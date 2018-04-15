@@ -1,0 +1,7 @@
+= Simple Gradle plugin
+
+Based on tutorial https://guides.gradle.org/writing-gradle-plugins.
+
+----
+$ ./gradlew -q hello
+----
